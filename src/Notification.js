@@ -26,7 +26,6 @@ function Notification(props) {
       <div className='parentReminder'>
         <img className='carApproachingDestination' src='https://bit.ly/2Dl2TFH'>
         </img>
-        
         <p className='reminder'>Don't Forget Your</p>
       </div>
       <div>
@@ -35,9 +34,6 @@ function Notification(props) {
       <div>
       <img className='payment' src='https://bit.ly/2OLxPEl' ></img>
       </div>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/ic8j13piAhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-          
-        </iframe>
 
 
     </div>
