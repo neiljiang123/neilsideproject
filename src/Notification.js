@@ -32,6 +32,9 @@ function Notification(props) {
         {props.objects.map(ItemImage)}
       </div>
       <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ic8j13piAhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div>
       <img className='payment' src='https://bit.ly/2OLxPEl' ></img>
       </div>
 
